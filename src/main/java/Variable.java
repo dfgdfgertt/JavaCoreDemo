@@ -6,7 +6,7 @@ public class Variable {
         Integer a = 100,b= 200;
         swap(a,b);
         System.out.println("a= "+ a +" b= "+b );
-
+        //a
     }
 
     public static void swap(Integer a, Integer b){
